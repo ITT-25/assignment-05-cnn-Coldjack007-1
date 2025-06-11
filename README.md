@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BOO70ufO)
+# Sadly, due to personal reasons, I had no time to tackle the third exercise. The first two exercises are complete though!
+
+## Hyperparameters
+- My hyperparameter was "kernel size for the convolution layers"
+- All info should be in the notebook.
+- The relevant accuracy are found in the exercise's folder.
+
+## Dataset
+- My images are in the folder "images".
+- Everything else is in the notebook.
